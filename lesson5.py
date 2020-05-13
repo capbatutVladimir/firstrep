@@ -8,8 +8,10 @@ class Animal:
 class Lion(Animal):
   pass
 
+
 class Turtle(Animal):
     pass
+
 
 lion = Lion('Bake')
 turtle = Turtle('Gheorghe')
